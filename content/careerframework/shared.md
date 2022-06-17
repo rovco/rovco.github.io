@@ -2,6 +2,7 @@
 layout: page
 title: Vaarst Career Framework - Shared
 permalink: /careerframework/shared
+parent: Vaarst Career Framework
 ---
 
-# Career Framwework Shared Elements
+# Career Framework Shared Elements

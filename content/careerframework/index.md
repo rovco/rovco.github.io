@@ -2,8 +2,8 @@
 layout: page
 title: Vaarst Career Framework
 permalink: /careerframework/
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
-# Career Framwework Home
+# Career Framework Home
