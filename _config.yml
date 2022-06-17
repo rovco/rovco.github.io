@@ -3,3 +3,4 @@ aux_links:
   "Vaarst Main Site":
     - "//vaarst.com/"
 include: ["content"]
+markdown: kramdown
