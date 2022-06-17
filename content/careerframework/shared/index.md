@@ -2,7 +2,7 @@
 layout: page
 title: Shared Framework
 permalink: /careerframework/shared
-nav_order: 2
+nav_order: 1
 parent: Vaarst Career Framework
 has_children: true
 ---

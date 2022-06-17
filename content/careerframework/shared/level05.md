@@ -4,6 +4,7 @@ title: Shared Framework - Level 5 (Junior)
 permalink: /careerframework/shared/level5
 nav_order: 1
 parent: Shared Framework
+grand_parent: Vaarst Career Framework
 ---
 
 # Shared Framework - Level 5
