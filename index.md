@@ -1,1 +1,7 @@
-#Vaarst Github Pages
+---
+layout: page
+title: Home
+permalink: /
+---
+
+# Vaarst Github Pages
