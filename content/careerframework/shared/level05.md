@@ -2,7 +2,7 @@
 layout: page
 title: Shared Framework - Level 5 (Junior)
 permalink: /careerframework/shared/level5
-nav_order: 3
+nav_order: 1
 parent: Shared Framework
 ---
 
