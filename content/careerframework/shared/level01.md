@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shared Framework - Level 1 (Head Of)
+title: Level 1 (Head Of)
 permalink: /careerframework/shared/level1
 nav_order: 5
 parent: Shared Framework

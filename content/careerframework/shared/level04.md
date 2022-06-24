@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shared Framework - Level 4 (Mid)
+title: Level 4 (Mid)
 permalink: /careerframework/shared/level4
 nav_order: 2
 parent: Shared Framework

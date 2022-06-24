@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shared Framework - Level 3 (Senior)
+title: Level 3 (Senior)
 permalink: /careerframework/shared/level3
 nav_order: 3
 parent: Shared Framework
