@@ -13,11 +13,11 @@ grand_parent: Vaarst Career Framework
 
 | Scope        | Impact Levers     |
 |:-------------|:------------------|
-| - | - |
+| TODO | TODO |
 
 ## Results
 
 |Area          | Description       |
 |:-------------|:------------------|
-| - | - |
-| - | - |
+| TODO | TODO |
+| TODO | TODO |
