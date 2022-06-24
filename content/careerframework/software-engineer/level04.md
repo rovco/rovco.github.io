@@ -18,18 +18,3 @@ grand_parent: Vaarst Career Framework
 | Software Design | TODO |
 | Architecture Design | TODO |
 | Technical Strategy | TODO |
-
-### Code Fluency
-TODO
-
-### Engineering Maturity
-TODO
-
-### Software Design
-TODO
-
-### Architecture Design
-TODO
-
-### Technical Strategy
-TODO

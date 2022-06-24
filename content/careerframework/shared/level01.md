@@ -19,10 +19,10 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Impact | TODO |
-| Ownership | TODO |
-| Decision Making | TODO |
-| Operational Excellence | TODO |
+| [Impact](/careerframework/shared#impact) | TODO |
+| [Ownership](/careerframework/shared#ownership) | TODO |
+| [Decision Making](/careerframework/shared#ownership) | TODO |
+| [Operational Excellence](/careerframework/shared#operational-excellence) | TODO |
 
 ## Direction
 
