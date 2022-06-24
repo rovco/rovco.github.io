@@ -19,5 +19,31 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| TODO | TODO |
-| TODO | TODO |
+| Impact | TODO |
+| Ownership | TODO |
+| Decision Making | TODO |
+| Operational Excellence | TODO |
+
+## Direction
+
+|Area          | Description       |
+|:-------------|:------------------|
+| Agility | TODO |
+| Innovation | TODO |
+| Strategy | TODO |
+
+## Talent
+
+|Area          | Description       |
+|:-------------|:------------------|
+| Talent Attraction | TODO |
+| Talent Development | TODO |
+| Organisational Planning | TODO |
+
+## Culture 
+
+|Area          | Description       |
+|:-------------|:------------------|
+| Achieve Together | TODO |
+| Organisational Health | TODO |
+| Personal Brand | TODO |
