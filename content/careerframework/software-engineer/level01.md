@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Level 1 (Lead/Principal)
+title: Level 1 (Head Of)
 permalink: /careerframework/softwareengineer/level1
 nav_order: 5
 parent: Software Engineer Craft
