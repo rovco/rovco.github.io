@@ -1,3 +1,8 @@
+title: Vaarst Pages
+description: Vaarst Pages
+baseurl: "/"
+url: "https://rovco.github.io/"
+
 remote_theme: just-the-docs/just-the-docs
 aux_links:
   "Vaarst Main Site":
@@ -5,3 +10,19 @@ aux_links:
 include: ["content"]
 markdown: kramdown
 logo: "/assets/images/logo.png"
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
