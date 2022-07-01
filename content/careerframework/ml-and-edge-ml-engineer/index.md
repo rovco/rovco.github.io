@@ -2,7 +2,7 @@
 layout: page
 title: ML and Edge ML Engineer Craft
 permalink: /careerframework/mlengineer
-nav_order: 2
+nav_order: 5
 parent: Vaarst Career Framework
 has_children: true
 ---

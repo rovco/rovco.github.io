@@ -2,7 +2,7 @@
 layout: page
 title: Computer Vision Engineer Craft
 permalink: /careerframework/computervisionengineer
-nav_order: 3
+nav_order: 6
 parent: Vaarst Career Framework
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Level 2 (Lead/Principal)
+title: Level 2 (Lead)
 permalink: /careerframework/testengineer/level2
 nav_order: 4
 parent: Test Engineer Craft
