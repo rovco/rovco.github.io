@@ -4,3 +4,4 @@ aux_links:
     - "//vaarst.com/"
 include: ["content"]
 markdown: kramdown
+logo: "/assets/images/logo.png"
