@@ -2,7 +2,7 @@
 layout: page
 title: DevOps Engineer Craft
 permalink: /careerframework/devopsengineer
-nav_order: 2
+nav_order: 3
 parent: Vaarst Career Framework
 has_children: true
 ---
