@@ -13,9 +13,9 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Testing Fluency | TODO |
-| Engineering Maturity | TODO |
-| Testing Strategy | TODO |
-| Quality Assessment | TODO |
-| Quality Advocacy | TODO |
-| Quality Process Strategy | TODO |
+| [Testing Fluency](/careerframework/testengineer#testing-fluency) | TODO |
+| [Engineering Maturity](/careerframework/testengineer#engineering-maturity)  | TODO |
+| [Testing Strategy](/careerframework/testengineer#testing-strategy)  | TODO |
+| [Quality Assessment](/careerframework/testengineer#quality-assessment)  | TODO |
+| [Quality Advocacy](/careerframework/testengineer#quality-advocacy)  | TODO |
+| [Quality Process Strategy](/careerframework/testengineer#quality-process-strategy)  | TODO |

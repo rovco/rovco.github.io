@@ -13,8 +13,8 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Engineering Maturity | TODO |
-| Infrastructure and Operations | TODO |
-| Automation | TODO |
-| Software Development | TODO |
-| Process Design | TODO |
+| [Engineering Maturity](/careerframework/devopsengineer#engineering-maturity) | TODO |
+| [Infrastructure and Operations](/careerframework/devopsengineer#infrastructure-and-operations) | TODO |
+| [Automation](/careerframework/devopsengineer#automation) | TODO |
+| [Software Development](/careerframework/devopsengineer#software-development) | TODO |
+| [Process Design](/careerframework/devopsengineer#process-design) | TODO |

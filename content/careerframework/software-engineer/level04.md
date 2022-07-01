@@ -13,8 +13,8 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Code Fluency | TODO |
-| Engineering Maturity | TODO |
-| Software Design | TODO |
-| Architecture Design | TODO |
-| Technical Strategy | TODO |
+| [Code Fluency](/careerframework/softwareengineer#code-fluency) | TODO |
+| [Engineering Maturity](/careerframework/softwareengineer#engineering-maturity) | TODO |
+| [Software Design](/careerframework/softwareengineer#software-design) | TODO |
+| [Architecture Design](/careerframework/softwareengineer#architecture-design) | TODO |
+| [Technical Strategy](/careerframework/softwareengineer#technical-strategy) | TODO |

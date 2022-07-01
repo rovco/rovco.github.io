@@ -13,8 +13,8 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Computer Vision Craft | TODO |
-| Systems Knowledge | TODO |
-| Research Process | TODO |
-| Reach | TODO |
-| Creativity and Research Projects | TODO |
+| [Computer Vision Craft](/careerframework/computervisionengineer#computer-vision-craft) | TODO |
+| [Systems Knowledge](/careerframework/computervisionengineer#systems-knowledge) | TODO |
+| [Research Process](/careerframework/computervisionengineer#research-process) | TODO |
+| [Reach](/careerframework/computervisionengineer#reach) | TODO |
+| [Creativity and Research Projects](/careerframework/computervisionengineer#creativity-and-research-projects) | TODO |

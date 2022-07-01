@@ -19,31 +19,31 @@ grand_parent: Vaarst Career Framework
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Impact | TODO |
-| Ownership | TODO |
-| Decision Making | TODO |
-| Operational Excellence | TODO |
+| [Impact](/careerframework/shared#impact) | TODO |
+| [Ownership](/careerframework/shared#ownership) | TODO |
+| [Decision Making](/careerframework/shared#decision-making) | TODO |
+| [Operational Excellence](/careerframework/shared#operational-excellence) | TODO |
 
 ## Direction
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Agility | TODO |
-| Innovation | TODO |
-| Strategy | TODO |
+| [Agility](/careerframework/shared#agility) | TODO |
+| [Innovation](/careerframework/shared#innovation) | TODO |
+| [Strategy](/careerframework/shared#strategy) | TODO |
 
 ## Talent
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Talent Attraction | TODO |
-| Talent Development | TODO |
-| Organisational Planning | TODO |
+| [Talent Attraction](/careerframework/shared#talent-attraction) | TODO |
+| [Talent Development](/careerframework/shared#talent-development) | TODO |
+| [Organisational Planning](/careerframework/shared#organisational-planning) | TODO |
 
 ## Culture 
 
 |Area          | Description       |
 |:-------------|:------------------|
-| Achieve Together | TODO |
-| Organisational Health | TODO |
-| Personal Brand | TODO |
+| [Achieve Together](/careerframework/shared#achieve-together) | TODO |
+| [Organisational Health](/careerframework/shared#organisational-health) | TODO |
+| [Personal Brand](/careerframework/shared#personal-brand) | TODO |
