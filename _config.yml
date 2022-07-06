@@ -1,7 +1,7 @@
 title: Vaarst Pages
 description: Vaarst Pages
 baseurl: "/"
-url: "https://rovco.github.io/"
+url: "https://rovco.github.io"
 
 remote_theme: just-the-docs/just-the-docs
 aux_links:
