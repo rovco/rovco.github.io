@@ -11,7 +11,7 @@ grand_parent: Vaarst Career Framework
 
 I deliver results against a strategic company-level business objective or key component of the Vaarst mission. 
 
-I have a well-rounded set of technical skills and development methodologies, and apply them with a sophisticated approach that is best suited for each project. I design systems that are far from my previous experience, anticipating scale and scope beyond the current requirements at Dropbox or in areas otherwise unexplored. I make or participate in discussions around making sweeping technical choices that lack clearly correct answers, but am able to articulate the rationale and technical vision behind those choices. I partner with cross-functional stakeholders to identify major new business opportunities unlocked by technical capabilities.			
+I have a well-rounded set of technical skills and development methodologies, and apply them with a sophisticated approach that is best suited for each project. I design systems that are far from my previous experience, anticipating scale and scope beyond the current requirements at Vaarst or in areas otherwise unexplored. I make or participate in discussions around making sweeping technical choices that lack clearly correct answers, but am able to articulate the rationale and technical vision behind those choices. I partner with cross-functional stakeholders to identify major new business opportunities unlocked by technical capabilities.			
 
 |Area          | Description       |
 |:-------------|:------------------|
